@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Plexinet",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "AKPGENEN-RFok.aternos.me:34468",
+    "ip": "AKPGENEN-RFok.aternos.me",
     "port": 34468,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
