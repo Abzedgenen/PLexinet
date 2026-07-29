@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AKPGENEN-RFok.aternos.me",
+    "ip": "AKPGENEN-RFok.aternos.me:34468",
     "port": 34468,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
